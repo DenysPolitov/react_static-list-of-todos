@@ -1,0 +1,2 @@
+.todos{display:grid;justify-items:center;grid-template-columns:repeat(4,1fr);grid-gap:20px;gap:20px}.todo-card{width:100%;box-sizing:border-box;padding:24px;border-radius:24px;display:flex;flex-direction:column;align-items:flex-start;background-color:#d3d3d3}.todo-card__status--done{background-color:#90ee90}.todo-card__status--todo{background-color:#f08080}
+/*# sourceMappingURL=main.26d7c370.chunk.css.map */
